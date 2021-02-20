@@ -10,3 +10,6 @@ I am Ali. I am going to misuse the perfect ideas Github has already added to get
 - 😄 Pronouns: he/him
 - ⚡ Read more about my hobbies and projects on [my blog: akbaritabar.netlify.app/](http://akbaritabar.netlify.app/)
 
+[![Ali's github stats](https://github-readme-stats.vercel.app/api?username=akbaritabar&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+(copied/adapted the github stats code from: https://github.com/babeheim)
