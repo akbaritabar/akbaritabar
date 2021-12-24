@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I am Ali!
 
-I am Ali. I am going to misuse the perfect ideas Github has already added to get me started with the readme! :)
+[![Twitter](https://img.shields.io/twitter/follow/akbaritabar.svg?style=social&label=@Akbaritabar)](https://twitter.com/akbaritabar)
+
+I am going to misuse the perfect ideas Github has already added to get me started with the readme! :)
 
 
 - 🔭 I’m currently working as a postdoctoral researcher on themes related (but not limited) to __science of science__, __social networks__, __collaboration networks__, and of course __computational social science__.
