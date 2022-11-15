@@ -15,3 +15,5 @@ I am going to misuse the perfect ideas Github has already added to get me starte
 [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=akbaritabar&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 (copied/adapted the github stats code from: https://github.com/babeheim)
+
+<a rel="me" href="https://mastodon.social/@Akbaritabar">Mastodon</a>
