@@ -10,7 +10,7 @@ I am going to misuse the perfect ideas Github has already added to get me starte
 - 👯 I’m looking to collaborate on research ideas close to above themes, using computational tools and techniques to answer _social scientific_ questions.
 - 📫 How to reach me: Twitter: @akbaritabar, [@Akbaritabar@mastodon.social](https://mastodon.social/@Akbaritabar) or email!
 - 😄 Pronouns: he/him
-- ⚡ Read more about my hobbies and projects on [my blog: akbaritabar.netlify.app/](http://akbaritabar.netlify.app/)
+- ⚡ Read more about my hobbies and projects on [my blog: https://akbaritabar.github.io/](https://akbaritabar.github.io/)
 
 [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=akbaritabar&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
